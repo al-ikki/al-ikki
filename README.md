@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @al-manikis
+- 👋 Hi, I’m @al-ikki
 - 👀 I’m interested in robotics, machine learning, and integration of science in the computing world.
 - 🌱 I’m currently learning the basics of programming through CS50 and reading. 
 - 💞️ I’m looking to collaborate on anything, really. I just want to learn more. 
